@@ -1,0 +1,15 @@
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\bin\Debug\net6.0\MiapoTask2PozdUkol.exe
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\bin\Debug\net6.0\MiapoTask2PozdUkol.deps.json
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\bin\Debug\net6.0\MiapoTask2PozdUkol.runtimeconfig.json
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\bin\Debug\net6.0\MiapoTask2PozdUkol.dll
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\bin\Debug\net6.0\MiapoTask2PozdUkol.pdb
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\MiapoTask2PozdUkol.csproj.AssemblyReference.cache
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\MiapoTask2PozdUkol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\MiapoTask2PozdUkol.AssemblyInfoInputs.cache
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\MiapoTask2PozdUkol.AssemblyInfo.cs
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\MiapoTask2PozdUkol.csproj.CoreCompileInputs.cache
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\MiapoTask2PozdUkol.dll
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\refint\MiapoTask2PozdUkol.dll
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\MiapoTask2PozdUkol.pdb
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\MiapoTask2PozdUkol.genruntimeconfig.cache
+C:\Users\gr621_poase\Desktop\Practice\MiapoTask2PozdUkol\obj\Debug\net6.0\ref\MiapoTask2PozdUkol.dll
