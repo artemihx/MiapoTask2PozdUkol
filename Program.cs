@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class App
 {
@@ -35,12 +35,36 @@ class App
         return math;
     }
 
+    static double Plus(Calculate math)
+    {
+        double result = math.a + math.b;
+        return result;
+    }
+    
+    static double Minus(Calculate math)
+    {
+        double result = math.a - math.b;
+        return result;
+    }
+    
+    static double Mult(Calculate math)
+    {
+        double result = math.a * math.b;
+        return result;
+    }
+    
+    static double Division(Calculate math)
+    {
+        double result = math.a / math.b;
+        return result;
+    }
+
     static void OutPut(Calculate math)
     {
         string str = $"{math.a} {math.op} {math.b} = ";
         switch (math.op)
         {
-            /*case "+":
+            case "+":
                 Console.WriteLine(str + Plus(math));
                 break;
             case "-":
@@ -50,9 +74,9 @@ class App
                 Console.WriteLine(str + Mult(math));
                 break;
             case "/":
-                Console.WriteLine(str + Div(math));
+                Console.WriteLine(str + Division(math));
                 break;
-            */case "^":
+            case "^":
                 Console.WriteLine(str + NumPow(math));
                 break;
             case "sqrt":
