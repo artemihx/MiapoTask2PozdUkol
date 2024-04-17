@@ -22,9 +22,33 @@ class App
         return math;
     }
 
+    static double Plus(Calculate math)
+    {
+        double result = math.a + math.b;
+        return result;
+    }
+    
+    static double Minus(Calculate math)
+    {
+        double result = math.a - math.b;
+        return result;
+    }
+    
+    static double Mult(Calculate math)
+    {
+        double result = math.a * math.b;
+        return result;
+    }
+    
+    static double Division(Calculate math)
+    {
+        double result = math.a / math.b;
+        return result;
+    }
+    
     static void Main()
     {
         Calculate math = InputMath();
-        Console.WriteLine($"{math.a}, {math.op}, {math.b}");
+        Console.WriteLine($"{Plus(math)} {Minus(math)} {Mult(math)} {Division(math)}");
     }
 }
